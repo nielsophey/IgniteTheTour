@@ -1,4 +1,4 @@
-﻿using Model;
+using Model;
 using System.Threading.Tasks;
 
 namespace Notifications

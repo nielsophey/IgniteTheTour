@@ -1,4 +1,4 @@
-﻿using Model;
+using Model;
 using System.IO;
 using System.Threading.Tasks;
 

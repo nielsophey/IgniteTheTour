@@ -1,4 +1,4 @@
-﻿# Demo 1 – ASR setup and replication
+# Demo 1 – ASR setup and replication
 ## Demo Intro
 
 Let’s get started

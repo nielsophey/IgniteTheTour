@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using InventoryService.Api.Database;
 using InventoryService.Api.Models;
 using Microsoft.AspNetCore;

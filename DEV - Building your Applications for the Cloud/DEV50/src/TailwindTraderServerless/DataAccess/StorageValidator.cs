@@ -1,4 +1,4 @@
-﻿using Microsoft.WindowsAzure.Storage;
+using Microsoft.WindowsAzure.Storage;
 using Model;
 using System;
 

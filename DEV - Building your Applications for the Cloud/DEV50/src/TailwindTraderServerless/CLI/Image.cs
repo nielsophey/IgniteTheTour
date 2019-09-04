@@ -1,4 +1,4 @@
-﻿using DataAccess;
+using DataAccess;
 using Notifications;
 using System;
 using System.IO;

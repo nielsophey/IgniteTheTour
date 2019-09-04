@@ -1,4 +1,4 @@
-﻿using Microsoft.WindowsAzure.Storage.Table;
+using Microsoft.WindowsAzure.Storage.Table;
 using Model;
 
 namespace DataAccess

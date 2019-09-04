@@ -1,4 +1,4 @@
-﻿using DataAccess;
+using DataAccess;
 using Model;
 using Notifications;
 using System.Linq;
